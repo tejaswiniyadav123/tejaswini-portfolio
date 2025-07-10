@@ -1,6 +1,7 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
-    image: 2
-}
+    description1: "My name's Tejaswini Panchadarla. I'm an AI/ML engineer and embedded systems specialist based in India.",
+    description2: "I’ve worked on intelligent health monitoring systems, energy-efficient edge AI platforms, and real-time signal processing using embedded ML. I love blending low-level hardware with high-level intelligence. Outside work, I enjoy writing tech articles, mentoring juniors, and occasionally competing in chess tournaments.",
+    image: 2,
+  };
+  
