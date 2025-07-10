@@ -1,6 +1,6 @@
 /* eslint-disable */
 import { BiChip } from "react-icons/bi";
-import { BsCpu, BsCodeSlash } from "react-icons/bs";
+import { BsGear, BsCodeSlash } from "react-icons/bs";  // ✅ Fixed BsCpu → BsGear
 import { AiOutlineProject } from "react-icons/ai";
 import { FaPenFancy, FaLaptopCode, FaTools } from "react-icons/fa";
 import { GiArtificialIntelligence } from "react-icons/gi";
@@ -19,7 +19,7 @@ export const servicesData = [
   {
     id: 3,
     title: "Software Optimization & Profiling",
-    icon: <BsCpu />,
+    icon: <BsGear />,  // ✅ Valid icon used
   },
   {
     id: 4,
