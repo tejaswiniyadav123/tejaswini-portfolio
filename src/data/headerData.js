@@ -1,5 +1,5 @@
 import resume from '../assets/pdf/resume.pdf';
-import Tejaswini_img from '../assets/svg/about/Tejaswini-image.png'; // ✅ Add this line (move image to `svg/about` if needed)
+import Tejaswini_img from '../assets/svg/about/Tejaswini_image.png'; // ✅ Add this line (move image to `svg/about` if needed)
 
 export const headerData = {
   name: 'Tejaswini Panchadarla',
