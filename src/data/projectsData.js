@@ -1,3 +1,12 @@
+import one from '../assets/svg/projects/one.svg';
+import two from '../assets/svg/projects/two.svg';
+import three from '../assets/svg/projects/three.svg';
+import four from '../assets/svg/projects/four.svg';
+import five from '../assets/svg/projects/five.svg';
+import six from '../assets/svg/projects/six.svg';
+import seven from '../assets/svg/projects/seven.svg';
+import eight from '../assets/svg/projects/eight.svg';
+
 export const projectsData = [
   {
     id: 1,
@@ -7,6 +16,7 @@ export const projectsData = [
     tags: ['Python', 'YOLOv8', 'Raspberry Pi', 'SNPE', 'Kalman', 'SVM'],
     code: '',
     demo: '',
+    image: one,
   },
   {
     id: 2,
@@ -16,6 +26,7 @@ export const projectsData = [
     tags: ['Python', 'RPi', 'Tkinter', 'DNN', 'SVM'],
     code: '',
     demo: '',
+    image: two,
   },
   {
     id: 3,
@@ -25,6 +36,7 @@ export const projectsData = [
     tags: ['YOLOv8', 'TensorRT', 'Edge AI', 'C++', 'WinML'],
     code: '',
     demo: '',
+    image: three,
   },
   {
     id: 4,
@@ -34,6 +46,7 @@ export const projectsData = [
     tags: ['Python', 'CNN', 'TensorFlow', 'OpenCV'],
     code: '',
     demo: '',
+    image: four,
   },
   {
     id: 5,
@@ -43,6 +56,7 @@ export const projectsData = [
     tags: ['QGIS', 'Python', 'OpenCV', 'ML', 'Remote Sensing'],
     code: '',
     demo: '',
+    image: five,
   },
   {
     id: 6,
@@ -52,6 +66,7 @@ export const projectsData = [
     tags: ['C', 'MSP430', 'LTSpice', 'Energy Harvesting'],
     code: '',
     demo: '',
+    image: six,
   },
   {
     id: 7,
@@ -61,6 +76,7 @@ export const projectsData = [
     tags: ['Linux', 'Cybersecurity', 'GFG', 'Blogging'],
     code: 'https://www.geeksforgeeks.org/user/tejaswipkle/contributions/',
     demo: '',
+    image: seven,
   },
   {
     id: 8,
@@ -70,5 +86,6 @@ export const projectsData = [
     tags: ['C++17', 'ONNX', 'TensorRT', 'Oscilloscopes', 'AI SDK'],
     code: '',
     demo: '',
+    image: eight,
   },
 ];
